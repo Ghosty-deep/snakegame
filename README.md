@@ -1,129 +1,151 @@
-# snakegame
-# Contributor Covenant Code of Conduct
+# 🎃 HacktoberFest Starter Project 🎃
 
-## Our Pledge
+Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open source community by completing some simple tasks in this project.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
+https://github.com/Ghosty-deep/Game-deployement.git
 
-## Our Standards
+## What is Hacktoberfest?
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.com/) and [GitHub](https://dev.to/this-is-learning/hacktoberfest-2022-is-almost-there-get-ready-4ifb) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-  overall community
+[https://hacktoberfest.com/](https://hacktoberfest.com/)
 
-Examples of unacceptable behavior include:
+## How to contribute to this project
 
-* The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+Here are 3 quick and painless ways to contribute to this project:
 
-## Enforcement Responsibilities
+- Add your name to the `CONTRIBUTING.md` file
+- Add a profile page to the `profiles` directory
+- Create a simple "Hello, World" script in a language of your choice
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+Choose one or all 3, make a pull request for your work and wait for it to be merged!
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+## Getting started
 
-## Scope
+- Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
+- Clone your fork down to your local machine
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+```markdown
+git clone https://github.com/Ghosty-deep/Game-deployement.git
+```
 
-## Enforcement
+- Create a branch
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-.
-All complaints will be reviewed and investigated promptly and fairly.
+```markdown
+git checkout -b branch-name
+```
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+- Make your changes (choose from any task below)
+- Commit and push
 
-## Enforcement Guidelines
+```markdown
+git add .
+git commit -m 'Commit message'
+git push origin branch-name
+```
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+- Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
+- Wait for your PR review and merge approval!
+- **Star this repository** if you had fun!
 
-### 1. Correction
+## Choose from these tasks
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+### 1. Add your name
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
-### 2. Warning
+```markdown
+#### Name: [YOUR NAME](GitHub link)
 
-**Community Impact**: A violation through a single incident or series
-of actions.
+- Place: City, State, Country
+- Bio: Who are you?
+- GitHub: [GitHub account name](GitHub link)
+```
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
+### 2. Add a profile page
 
-### 3. Temporary Ban
+Add a `Your_Name.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like. Here is an example:
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+```markdown
+# Your Name
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+### Location
 
-### 4. Permanent Ban
+Your City/Country
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
+### Academics
 
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
+Your School
 
-## Attribution
+### Interests
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+- Some Things You Like
 
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
+### Development
 
-[homepage]: https://www.contributor-covenant.org
+- Inventor of the My Pillow
 
-For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at
-https://www.contributor-covenant.org/translations.
+### Projects
+
+- [My Project](GitHub Link) Short Description
+
+### Profile Link
+
+[Your Name](GitHub Link)
+```
+
+### 3. Create a `Hello, World!` Script
+
+Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
+
+```Javascript
+// LANGUAGE: Javascript
+// ENV: Node.js
+// AUTHOR: Anmol Agarwal
+// GITHUB: https://github.com/fineanmol
+
+console.log('Hello, World!');
+```
+
+Name the file `hello_world_yourusername.xx`. e.g., `hello_world_anmolagarwal.js` or `hello_world_anmolagarwal.py`.
+
+Add your scripts to the specific folder for specific languages created.
+
+Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial.
+
+Here is my `hello_world` example: [hello_world_anmolagarwal.js](https://github.com/fineanmol/hacktoberfest/blob/master/scripts/hello_world_anmol_agarwal.js)
+
+## Our Contributors
+<p align="center"><a href="https://github.com/Ghosty-deep/Game-deployement.git">
+  <img src="https://contributors-img.web.app/image?repo=fineanmol/hacktoberfest" />
+</a></p>
+
+## BONUS!
+
+- Merging All Pull Requests
+- See profiles submitted by fellow coders from around the globe ... from Kathmandu to Copenhagen.
+- Discover some obscure to new and trending languages ... from BrainFuck to Groovy.
+- Check out some very creative ways to print out a "Hello, World!" string.
+
+## Reference links
+
+Here is a great tutorial for creating your first pull request by [Roshan Jossey](https://github.com/Roshanjossey):
+[https://github.com/Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions)
+
+Managing your Forked Repo: [https://help.github.com/articles/fork-a-repo/](https://help.github.com/articles/fork-a-repo/)
+
+Syncing a Fork: [https://help.github.com/articles/syncing-a-fork/](https://help.github.com/articles/syncing-a-fork/)
+
+Keep Your Fork Synced: [https://gist.github.com/fineanmol/f9b8943230e7031ae78cdcd1755bef32](https://gist.github.com/fineanmol/f9b8943230e7031ae78cdcd1755bef32)
+
+Checkout this list for README examples - Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
+
+## Additional references added by contributors
+
+GitHub license explained [https://choosealicense.com](https://choosealicense.com)
+
